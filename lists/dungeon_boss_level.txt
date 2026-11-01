@@ -1,0 +1,31 @@
+Hall of Thanes	Plunder — 16	Durgen Dirgehammer — 16 :: [13+]
+Ruins of Lordaeron	Bjork — 19	Rath’mael — 20 :: [15+]
+Мёртвые копи	Captain Greenskin — 20	Edwin VanCleef — 21 :: [17+]
+Пещеры Стенаний	Verdan the Everliving — 21	Mutanus — 22 :: [18+]
+Непроглядная Пучина	Twilight Lord Kelris — 27	Aku’mai — 28 :: [26+]
+Тюрьма	Hamhock — 28	Bazil Thredd — 29 :: [26+]
+Excavation Site	Shadetooth — 29	Relic Guardian — 31 :: [24-29]
+City of Dalaran	Например, Fel Ancient — 32	Shade of the Archmage — 33 :: [28-30+]
+Гномреган	Crowd Pummeler 9-60 — 32	Mekgineer Thermaplugg — 34 :: [30+]
+Лабиринты Игл	Agathelos — 33	Charlga Razorflank — 33 :: [32+]
+Monastery: Cemetery Interrogator Vishas - 32	Bloodmage Thalnos - 34 :: [30+]
+Монастырь: библиотека	Houndmaster Loksey — 34	Arcanist Doan — 37 :: [34+]
+Монастырь: оружейная	- Herod — 40† :: [36+]
+Монастырь: собор	Scarlet Commander Mograine — 42†	Whitemane — 42† :: [38+]
+Курганы Игл	Glutton — 40†	Amnennar — 41† :: [36+]
+Ульдаман	Grimlok — 45†	Archaedas — 47† :: [42+]
+Зул’Фаррак	Ruuzlu — 46†	Chief Ukorz — 48† :: [44+]
+Мародон	Rotgrip — 50†	Princess Theradras — 51† :: [47+]
+Затонувший храм	Парная схватка: Morphaz 52† + Hazzas 53†	Shade of Eranikus — 55† :: [50+]
+Глубины Чёрной горы, до императора	Magmus — 57†	Emperor Dagran Thaurissan — 59† :: [50+]
+---
+The Drowned City, Location: Stranglethorn Vale (Eastern Kingdoms) :: [35-50+]
+Krol’dok Stronghold, Location: The Riverglades (Eastern Kingdoms) :: [40-55+]
+Alcaz Island Prison, Location: Dustwallow Marsh (Kalimdor) :: [48-53+]
+Blackmaw Hold, no known location :: [55-60]
+Shaper’s Terrace, Location: Un’Goro Crater (Kalimdor) :: [58-60]
+
+
+
+
+
